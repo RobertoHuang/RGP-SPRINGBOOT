@@ -1,0 +1,2 @@
+org.springframework.context.ApplicationContextInitializer=\
+roberto.growth.process.example01.config.MyTypeExcludeFilterApplicationContextInitializer
