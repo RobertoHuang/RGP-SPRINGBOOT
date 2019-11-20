@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  roberto.growth.process.example02.config.CustomAutoConfiguration
